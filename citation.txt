@@ -1,0 +1,11 @@
+@inproceedings{REPO328,
+    author = "Ahishali, Mete and Kiranyaz, Serkan and Ahmad, Iftikhar and Gabbouj, Moncef",
+    booktitle = "2022 IEEE International Conference on Image Processing (ICIP)",
+    doi = "10.1109/ICIP46576.2022.9897863",
+    keywords = "Measurement;Image processing;Neurons;Training data;Computer architecture;Data processing;Software;Band selection;hyperspectral image data;machine learning;self-representation learning;sparse autoencoders",
+    number = "",
+    pages = "2296-2300",
+    title = "{SRL-SOA: Self-Representation Learning with Sparse 1D-Operational Autoencoder for Hyperspectral Image Band Selection}",
+    volume = "",
+    year = "2022"
+}
